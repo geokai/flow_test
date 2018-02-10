@@ -1,4 +1,4 @@
-"""Circuitous, LLC -
+"""Circuituous, LLC -
    An Advanced Circle Analytics Company
 
 """
