@@ -1,12 +1,15 @@
-"""Circuitous, LLC -
+"""Circuituous, LLC -
    An Advanced Circle Analytics Company
 
 """
+
 
 import math
 
 class Circle(object):
     """An Advance circle analytical toolkit"""
+
+    version = '0.0.1'
 
     def __init__(self, radius):
         self.radius = radius
