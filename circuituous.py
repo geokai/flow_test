@@ -25,3 +25,8 @@ class Circle(object):
 
 class Tire(Circle):
     """Tires are circles with a corrected perimeter"""
+
+
+    def perimeter(self):
+        """Circumference corrected for the rubber"""
+        return Circle.perimeter(self) * 1.25
