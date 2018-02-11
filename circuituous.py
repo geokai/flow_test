@@ -21,3 +21,7 @@ class Circle(object):
     def perimeter(self):
         """Calculate the perimeter of a circle of radius R"""
         return 2.0 * math.pi * self.radius
+
+
+class Tire(Circle):
+    """Tires are circles with a corrected perimeter"""
