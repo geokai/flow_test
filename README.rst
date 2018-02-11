@@ -1,5 +1,4 @@
-Weather API
-----
+## git-flow
 
-Consumes an existing weather api, processes it and makes it available in a form
-more easily accessed by microcontrollers
+This repo is a test-bed for the use of Git-Flow and evaluation of its use
+methods.
