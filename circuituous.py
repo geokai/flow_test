@@ -9,7 +9,7 @@ import math
 class Circle(object):
     """An Advance circle analytical toolkit"""
 
-    version = '0.0.2'
+    version = '0.0.3'
 
     def __init__(self, radius):
         self.radius = radius
